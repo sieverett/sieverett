@@ -1,32 +1,28 @@
 # Silas Everett
 
-Founder at [fasil.ai](https://fasil.ai). I build data-intensive applications and GenAI tooling, mostly in Python and TypeScript. Based in the SF Bay Area.
+Data Scientist and AI Consultant at [Weavery.ai](https://weavery.ai). I build LLM-powered applications, agentic AI systems, and data platforms in Python and TypeScript. UC Berkeley MIDS. Based in the SF Bay Area.
 
 ---
 
 ### What I build
 
-**Full-stack ML/AI applications** — FastAPI backends, React frontends, Streamlit dashboards, deployed on Azure and AWS
+**Agentic AI & LLM applications** — RAG architectures, agentic frameworks, entity extraction pipelines, deployed on AWS, GCP, and Azure
 
-**LLM and RAG systems** — Agent orchestration with AutoGen and LangChain, entity extraction pipelines, conversational retrieval
+**Full-stack AI product engineering** — Architect, build, and deploy end-to-end ML/LLM applications: API design (FastAPI, AWS API Gateway, Azure API Management), modern web UIs (React), internal tools (Streamlit), data/embedding pipelines, evaluation harnesses, and production operations (containerization, CI/CD, monitoring)
 
-**Data science and computer vision** — Forecasting models, NLP pipelines, image similarity with deep learning, geospatial analysis
+**Data science & experimentation** — Causal inference, A/B testing, forecasting models, NLP pipelines, computer vision, geospatial analysis
 
 ---
 
 ### Featured projects
 
-- [jaunty](https://github.com/sieverett/jaunty) — Travel revenue forecasting app with FastAPI ensemble models and React dashboard
-- [QuantIQ](https://github.com/sieverett/QuantIQ) — Financial statement analysis using OpenAI GPT and Streamlit
-- [BuffaloBuff](https://github.com/sieverett/BuffaloBuff) — Telegram chatbot with RAG for bike maintenance via Azure OpenAI and AutoGen
-- [prompt_to_entity_api](https://github.com/sieverett/prompt_to_entity_api) — FastAPI entity extraction from crisis text, deployed on AWS Lambda
-- [vehicle_verification](https://github.com/sieverett/vehicle_verification) — Vehicle image verification using ResNet50 feature extraction and cosine similarity
+- [jaunty](https://github.com/sieverett/jaunty) — Travel revenue forecasting app with ensemble models and React dashboard
+- [QuantIQ](https://github.com/sieverett/QuantIQ) — Financial statement analysis using LLM-powered document processing and Streamlit
+- [BuffaloBuff](https://github.com/sieverett/BuffaloBuff) — Telegram chatbot with RAG for maintenance of World Bicycle Relief's Buffalo Bike via Azure and AutoGen
 - [Event-Based-Contagion-Forecasting](https://github.com/sieverett/Event-Based-Contagion-Forecasting) — COVID-19 spread correlation analysis with campaign rally locations
 
 ---
 
 ### Tech stack
 
-Python, TypeScript, React, FastAPI, Streamlit, Docker, Jupyter
-Azure (OpenAI, Container Apps), AWS Lambda
-LangChain, AutoGen, OpenAI API, ResNet50, ELK Stack
+Python, TypeScript, React, FastAPI, Streamlit, Docker, Jupyter, AWS (Lambda, S3, Athena, API Gateway), GCP (BigQuery), Azure (API Management), LangChain, AutoGen, ELK Stack
