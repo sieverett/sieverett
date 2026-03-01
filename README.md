@@ -16,8 +16,8 @@ Data Scientist and AI Consultant at [Weavery.ai](https://weavery.ai). I build LL
 
 ### Featured projects
 
-- [jaunty](https://github.com/sieverett/jaunty) — Travel revenue forecasting app with ensemble models and React dashboard
-- [QuantIQ](https://github.com/sieverett/QuantIQ) — Financial statement analysis using LLM-powered document processing and Streamlit
+- [Jaunty](https://github.com/sieverett/jaunty) — Travel revenue forecasting app with ensemble models and React dashboard
+- [QuantIQ](https://github.com/sieverett/QuantIQ) — Light-weight financial statement analysis using LLM-powered document processing and Streamlit
 - [BuffaloBuff](https://github.com/sieverett/BuffaloBuff) — Telegram chatbot with RAG for maintenance of World Bicycle Relief's Buffalo Bike via Azure and AutoGen
 - [Event-Based-Contagion-Forecasting](https://github.com/sieverett/Event-Based-Contagion-Forecasting) — COVID-19 spread correlation analysis with campaign rally locations
 
@@ -25,4 +25,4 @@ Data Scientist and AI Consultant at [Weavery.ai](https://weavery.ai). I build LL
 
 ### Tech stack
 
-Python, TypeScript, React, FastAPI, Streamlit, Docker, Jupyter, AWS (Lambda, S3, Athena, API Gateway), GCP (BigQuery), Azure (API Management), LangChain, AutoGen, ELK Stack
+Python, TypeScript, FastAPI, Docker, Jupyter, AWS (Lambda, S3, Athena, API Gateway), GCP (BigQuery), Azure (API Management), LangChain, LangGraph, AutoGen, ELK Stack
